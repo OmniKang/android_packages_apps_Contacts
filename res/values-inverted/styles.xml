@@ -52,8 +52,6 @@
         <item name="android:actionBarTabStyle">@style/ContactsActionBarTabView</item>
         <item name="android:actionBarWidgetTheme">@style/ContactsActionBarTheme</item>
         <item name="android:actionBarItemBackground">@drawable/action_bar_item_background</item>
-    </style>
-    <style name="PeopleTheme" parent="@style/PeopleTheme1">
         <item name="contact_browser_list_padding_left">16.0dip</item>
         <item name="contact_browser_list_padding_right">0.0dip</item>
         <item name="contact_browser_background">@*android:color/transparent</item>
